@@ -1,8 +1,8 @@
 {
-    /* 	Transposes (moves) selected layer property keyframes to current time position with entered key step.
+	/* 	Transposes (moves) selected layer property keyframes to current time position with entered key step.
 	*	Only removes keyframes and re-create them in new timeline positions with stored values, so, interpolation types, 
 	*	spatial continuity, tangent vectors and other keyframe data is not supported.
-	* 	Questions? http://code.google.com/p/ae-transpose-selected-keyframes/
+	* 	Questions? https://github.com/RomanZander/ae-transpose-selected-keyframes/
 	*/
 	
     clearOutput();
